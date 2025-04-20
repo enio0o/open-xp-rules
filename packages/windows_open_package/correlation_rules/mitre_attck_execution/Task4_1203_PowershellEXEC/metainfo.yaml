@@ -1,0 +1,14 @@
+ContentAutoName: Task4_1203_PowershellEXEC
+ExpertContext:
+  Created: 20.04.2025
+  Updated: 20.04.2025
+  KnowledgeHolders:
+    - '12_03'
+  Usecases: []
+  Falsepositives: []
+  References: []
+  Improvements: []
+ObjectId: SEC-CR-100829086
+EventDescriptions:
+  - Criteria: correlation_name = "Task4_1203_PowershellEXEC"
+    LocalizationId: corrname_Task4_1203_PowershellEXEC

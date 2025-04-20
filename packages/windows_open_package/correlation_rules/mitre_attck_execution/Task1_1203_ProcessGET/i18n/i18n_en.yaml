@@ -1,0 +1,4 @@
+Description: 'Suspicious wmic command to dump all processes in the system'
+EventDescriptions:
+  - LocalizationId: 'corrname_Task1_1203_ProcessGET'
+    EventDescription: 'Process {object.process.name} executed {object.process.cmdline} command on the host  {event_src.host}'
