@@ -1,0 +1,4 @@
+Description: 'Подозрительный запуск абфусцированной команды (base64) в powershell'
+EventDescriptions:
+  - LocalizationId: 'corrname_Task4_1203_PowershellEXEC'
+    EventDescription: 'Процесс {object.process.name} выполнил команду {object.process.cmdline}  на узле {event_src.host}'

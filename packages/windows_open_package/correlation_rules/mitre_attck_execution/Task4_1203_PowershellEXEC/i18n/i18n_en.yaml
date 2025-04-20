@@ -1,0 +1,4 @@
+Description: 'Suspicious launch of abfuscated command (base64) in powershell'
+EventDescriptions:
+  - LocalizationId: 'corrname_Task4_1203_PowershellEXEC'
+    EventDescription: 'The process {object.process.name} executed the command {object.process.cmdline} on the node {event_src.host}'

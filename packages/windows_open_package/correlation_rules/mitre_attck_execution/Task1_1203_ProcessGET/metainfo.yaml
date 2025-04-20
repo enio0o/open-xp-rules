@@ -1,0 +1,14 @@
+ContentAutoName: Task1_1203_ProcessGET
+ExpertContext:
+  Created: 20.04.2025
+  Updated: 20.04.2025
+  KnowledgeHolders:
+    - '12_03'
+  Usecases: []
+  Falsepositives: []
+  References: []
+  Improvements: []
+ObjectId: SEC-CR-262345908
+EventDescriptions:
+  - Criteria: correlation_name = "Task1_1203_ProcessGET"
+    LocalizationId: corrname_Task1_1203_ProcessGET

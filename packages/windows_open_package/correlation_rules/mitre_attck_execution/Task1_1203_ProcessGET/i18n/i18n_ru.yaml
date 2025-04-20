@@ -1,0 +1,4 @@
+Description: 'Подозрительная команда wmic на дамп всех процессов в системе'
+EventDescriptions:
+  - LocalizationId: 'corrname_Task1_1203_ProcessGET'
+    EventDescription: 'Процесс {object.process.name} выполнил команду {object.process.cmdline}  на узле {event_src.host}'
